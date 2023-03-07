@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @szymonp1992
+- 👋 Hi, I’m Szymon Podstufka
 - 👀 I’m interested in Front End Development, Premier League football, outdoor apparel and gear, rap music
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Vue
 - 📫 How to reach me: s.podstufka(at)gmail.com
